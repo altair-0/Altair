@@ -1,0 +1,87 @@
+/* styles.css */
+
+/* Body background */
+body {
+  background-color: #171717;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+  background-color: #000;
+  padding: 20px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 30px;
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* About section */
+#about {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 0;
+}
+
+/* Skills section */
+#skills {
+  padding: 20px;
+}
+
+/* Story section */
+#story {
+  padding: 20px;
+}
+
+/* Gallery section */
+#gallery {
+  padding: 20px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.image-container img {
+  width: 300px;
+  height: auto;
+}
+
+/* Footer */
+footer {
+  background-color: #000;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer p {
+  margin: 0;
+}
+
+/* Assassin's Creed Theme */
+/* Add your custom Assassin's Creed styles here */
